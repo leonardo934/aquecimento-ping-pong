@@ -1,0 +1,50 @@
+*{margin: 0;}
+
+
+#bloco{
+    height: 330px;
+    width: 360px;
+    border:6px dotted orange ;
+    display: block;
+  margin: 294px 750px; 
+  
+}
+
+.vitoria{
+color: green;
+
+}
+
+.derrota{
+    color: red;
+}
+
+.alinhamento{
+    display: block;
+    margin-left: -31px;
+}
+
+.dez{
+    display:block ;
+    margin-left: -3px;
+}
+
+.jogador{
+    display: block;
+    margin-left: -11px;
+}
+
+.lucas{
+    display: block;
+    margin-left: -36px;
+}
+
+.kaio{
+    display: block;
+    margin-left: -26px;
+}
+    
+.vs{
+    display: block;
+margin-left: 0px;
+}
